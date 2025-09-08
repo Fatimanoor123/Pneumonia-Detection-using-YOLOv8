@@ -154,6 +154,7 @@ python inference.py
 |-------|------------|
 | gr1.jpeg | PNEUMONIA 0.89, NORMAL 0.11 |
 | img.jpeg | PNEUMONIA 0.73, NORMAL 0.27 |
+<img width="1041" height="489" alt="result 1" src="https://github.com/user-attachments/assets/1159ee4a-7ef8-4852-ad91-2aa9e389a9c3" />
 
 ---
 
